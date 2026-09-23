@@ -155,7 +155,7 @@ docker volume
  ### Module 10 — Final Project 🚀
 
  Build a production-style application consisting of:
-![](./Browser_Reverse_Proxy_Backend_API)
+![Browser_Reverse_Proxy_Backend_API](./Browser_Reverse_Proxy_Backend_API.jpg)
 ```
                     ┌───────────────┐
                     │    Browser    │
